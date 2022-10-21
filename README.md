@@ -20,8 +20,7 @@ python manage.py runserver
 
 In your browser, localhost:8000/admin
 
-username: dennismbugua.co.ke
-password: dennis
+username: dennismbugua.co.ke | password: dennis
 
 cd frontend
 
